@@ -1,4 +1,4 @@
-# LanguageApp
+# Frequency-Based Language Learning App
  
 ## **Video explaining:**
 (NOTE THIS IS OF AN OLDER VERSION. I WILL WITH TIME MAKE UPDATE VIDEOS)
