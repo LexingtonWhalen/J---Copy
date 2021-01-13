@@ -1,6 +1,6 @@
 # LanguageApp
  
-Video explaining (NOTE THIS IS OF AN OLDER VERSION. I WILL WITH TIME MAKE UPDATE VIDEOS):https://www.youtube.com/watch?v=Plv2Od4oCRE&t=218s&ab_channel=log1
+##Video explaining (NOTE THIS IS OF AN OLDER VERSION. I WILL WITH TIME MAKE UPDATE VIDEOS):https://www.youtube.com/watch?v=Plv2Od4oCRE&t=218s&ab_channel=log1
 
 Modules used:
 Tkinter - https://docs.python.org/3/library/tkinter.html
