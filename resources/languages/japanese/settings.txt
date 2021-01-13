@@ -1,0 +1,25 @@
+lang_title:日本語
+win_title: 最高の日本語のアプリ
+font_name:Meiryo
+sheet_name:JWordsImmersion
+search_button_text:検索する
+search_box_text:検索
+search_history_text:検索履歴
+dict_stats_text:辞書の数
+error_title:エラー
+warning_title:注意
+win_bg:#212121
+side_frame_bg:#505050
+title_frame_bg:#d1d1d1
+search_frame_bg:#9c9c9c
+search_results_bg:#919191
+util_frame_bg:#707070
+selected_words_bg:#c9c9c9
+search_results_frame_bg:#adadad
+added_dicts_bg:#616161
+search_box_bg0:SystemButtonFace
+search_box_bg1:#d6d6d6
+search_history_label_bg:#a3a3a3
+search_button_bg0:SystemButtonFace
+search_button_bg1:#94dbdb
+click_search_bg:#ccccff
