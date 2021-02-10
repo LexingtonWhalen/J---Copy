@@ -1,3 +1,5 @@
+###Created by Lex Whalen
+
 from lib.freq_list_csv import FreqList
 import gspread
 from oauth2client.service_account import ServiceAccountCredentials
