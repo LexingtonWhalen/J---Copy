@@ -1,3 +1,5 @@
+###Created by Lex Whalen
+
 from lib.freq_list_csv import FreqList
 from lib.import_sheet import GSpreadSheet
 from lib.kindle_words import KindleWords
