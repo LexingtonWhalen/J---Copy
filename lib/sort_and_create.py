@@ -1,3 +1,5 @@
+###Created by Lex Whalen
+
 import os
 import pandas as pd
 from lib.freq_list_csv import FreqList
