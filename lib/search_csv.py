@@ -1,9 +1,7 @@
+###Created by Lex Whalen
+
 import pandas as pd
 import os
-
-###TO DO:
-#allow for creation of master dict with different dictionary options
-#essentially, allow for what single dicts are available
 
 class SingleDict():
     #is a single csv dictionary turned into a pd dataframe.
@@ -63,16 +61,4 @@ class MasterDict():
             if query_result:
                 results_list.append([key,query_result])
         return results_list
-
-#test_name = "明鏡国語辞典.csv"
-#query = '日'
-
-#t = MasterDict()
-#t.massAdd()
-#results = t.massSearch(query)
-#for csv_list in results:
-#    for entry in csv_list:
-#        #odds are the names, evens the result
-#        print(entry)
-    
 
